@@ -75,7 +75,7 @@ npm run dev
 ## 👨‍💻 Author
 
 **Sai Teja**  
-📧 Email: saite@example.com  
+📧 Email: steja578@gmail.com  
 🗓️ Date: May 2025
 
 ---
