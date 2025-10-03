@@ -4,7 +4,7 @@
 
 ---
 
-## 📦 Modules
+##  Modules
 
 ### 🔹 `adminpanel`
 Admin dashboard for managing restaurants, menus, and customer orders.
