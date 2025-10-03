@@ -22,7 +22,7 @@ Contains the image assets used in the app including food thumbnails, banners, an
 
 ## ⚙️ Tech Stack
 
-- Frontend: React, Vite, JavaScript, HTML/CSS
+- Frontend: React, Vite, JavaScript, HTML/CSS.
 - Backend: Java 17, Spring Boot, Maven
 - Mobile: Android (Java/Kotlin)
 - Database: MySQL
